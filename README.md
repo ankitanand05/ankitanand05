@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div align="left" font-size:"100 >
 
   - 💻*CS undergrad at MAKAUT.*
-  - 📫 How to reach me *ankitanand8969.com*
+  - 📫 How to reach me *ankitanand8969@gmail.com*
   - 💬 Ask me about *Data Structures and Algorithms*
   - 🤝 I’m looking for help with *Developers and Like minded people*
   - ⚡ Fun fact *NASA still uses programs from the 70s in their spacecraft*
