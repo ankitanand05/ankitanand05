@@ -112,6 +112,6 @@ Here are some ideas to get you started:
 
   <br>
 
-  [![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankitanand05&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+  [![Ankit's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankitanand05&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
