@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Harsh 👋
+# Hi, I'm Ankit Anand 👋
 
 **Senior Software Engineer · Full Stack Developer · AI Automation Engineer**
 
@@ -94,7 +94,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitanand05&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitanand05&theme=dracula&column=4&margin-w=10&margin-h=10" />
 </p>
 
 ---
