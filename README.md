@@ -22,51 +22,48 @@
 
 ### 🛠 Tech Stack
 
-**Frontend**
+<p align="center">
+  <strong>Frontend</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+<p align="center">
+  <strong>Backend</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,flask,fastapi&perline=5" />
+</p>
 
-**Backend**
+<p align="center">
+  <strong>AI &amp; Automation</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,openai&perline=5" />
+  <br/>
+  <sub>LangChain · LangGraph · MCP Server · LLM Agent Workflows · AI Chatbots</sub>
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**AI & Automation**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
-![MCP Server](https://img.shields.io/badge/MCP_Server-FF6B35?style=flat&logoColor=white)
-
-> LLM Agent Workflows · AI Chatbots · End-to-End Automation Pipelines
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<p align="center">
+  <strong>Tools</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,vscode,github&perline=5" />
+</p>
 
 ---
 
 ### 📈 Tech Stack Proficiency
 
-| Skill | Proficiency | Level |
-|-------|-------------|-------|
-| Python | `████████████░░░` | Advanced |
-| JavaScript | `███████████░░░░` | Advanced |
-| React.js | `██████████░░░░░` | Intermediate–Advanced |
-| Java | `█████████░░░░░░` | Intermediate |
-| Node.js | `█████████░░░░░░` | Intermediate |
-| FastAPI / Flask | `████████████░░░` | Advanced |
-| LangChain / LangGraph | `███████████░░░░` | Advanced |
-| HTML & CSS | `█████████████░░` | Advanced |
-| Git & Linux | `████████████░░░` | Advanced |
-| AI Agent Workflows | `███████████░░░░` | Advanced |
+<p align="center">
+
+| Skill | Graph | Level |
+|-------|-------|-------|
+| Python | ██████████████░░ | Advanced |
+| JavaScript | █████████████░░░ | Advanced |
+| FastAPI / Flask | ██████████████░░ | Advanced |
+| LangChain / LangGraph | █████████████░░░ | Advanced |
+| HTML &amp; CSS | ███████████████░ | Advanced |
+| React.js | ████████████░░░░ | Intermediate+ |
+| Node.js | ███████████░░░░░ | Intermediate |
+| Java | ███████████░░░░░ | Intermediate |
+| AI Agent Workflows | █████████████░░░ | Advanced |
+| Git &amp; Linux | ██████████████░░ | Advanced |
+
+</p>
 
 ---
 
@@ -94,7 +91,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake.gif" alt="contribution snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake.gif" alt="contribution snake" />
 </p>
 
 ---
