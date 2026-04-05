@@ -1,8 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
+  # Cron disabled — re-enable when Actions minutes reset
+  # schedule:
+  #   - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
