@@ -73,12 +73,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitanand05&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitanand05&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankitanand05&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=ankitanand05&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitanand05&layout=compact&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankitanand05&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -91,22 +91,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitanand05&theme=dracula&column=4&margin-w=10&margin-h=10" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake.gif" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake.gif" alt="contribution snake" />
 </p>
 
 ---
