@@ -91,7 +91,11 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake.gif" alt="contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake.gif" alt="contribution snake" />
+  </picture>
 </p>
 
 ---
@@ -99,12 +103,16 @@
 ### 📬 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/ankit-anand-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/ankitanand05" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ankitanand8969@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
