@@ -1,156 +1,130 @@
-### Hi there 👋
-
-<!--
-This is your GitHub Profile README
--->
-
 <div align="center">
-  <h1>Hello Harsh here 👋</h1> 
-  <h3 align="center">Senior Software Engineer | Full Stack Developer | AI Automation Engineer</h3>
-  <br>
-  <img align="right" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
-</div>
 
-<div align="left">
+# Hi, I'm Harsh 👋
 
-  - 💻 Senior Software Engineer with **3+ years of experience**
-  - 🚀 Experienced in building **full-stack applications and automation systems**
-  - 🤖 Working with **AI frameworks, LLM applications, and chatbot systems**
-  - ⚙️ Building **end-to-end automation workflows using Flask and FastAPI**
-  - 🔍 Responsible for **monitoring automation pipelines and fixing failed jobs**
-  - 🌱 Currently exploring **advanced AI agent workflows using LangChain & LangGraph**
-  - 🤝 Open to collaborating on **AI, automation, and backend systems**
+**Senior Software Engineer · Full Stack Developer · AI Automation Engineer**
 
 </div>
 
-<div align="center">
-  <br><br>
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitanand05&theme=dracula&show_icons=true" alt="github stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitanand05&theme=dracula&show_icons=true" /><br>
+---
 
-  <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitanand05&layout=compact&theme=dracula&show_icons=true" alt="most used language" />
-  </p>
+### About Me
 
-</div>
+- 💼 Senior Software Engineer with **3+ years of experience**
+- 🔧 Building full-stack applications and end-to-end automation systems
+- 🤖 Working with AI frameworks — **LangChain, LangGraph, and MCP Server**
+- ⚙️ Designing and maintaining automation pipelines using **Flask & FastAPI**
+- 🔍 Daily workflow includes monitoring automation jobs, identifying failures, and deploying fixes
+- 🌱 Exploring advanced **LLM agent workflows** and AI-driven backend systems
+- 🤝 Open to collaborating on AI, automation, and backend engineering projects
 
-<div align="center">
-  <br><br>
+---
 
-  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ankitanand05&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+### 🛠 Tech Stack
 
-</div>
+**Frontend**
 
-<div align="left">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-  <br><br>
+**Backend**
 
-## 🛠 My Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-<p>
+**AI & Automation**
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP_Server-FF6B35?style=flat&logoColor=white)
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
+> LLM Agent Workflows · AI Chatbots · End-to-End Automation Pipelines
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+**Tools**
 
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+### 📈 Tech Stack Proficiency
 
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
+| Skill | Proficiency | Level |
+|-------|-------------|-------|
+| Python | `████████████░░░` | Advanced |
+| JavaScript | `███████████░░░░` | Advanced |
+| React.js | `██████████░░░░░` | Intermediate–Advanced |
+| Java | `█████████░░░░░░` | Intermediate |
+| Node.js | `█████████░░░░░░` | Intermediate |
+| FastAPI / Flask | `████████████░░░` | Advanced |
+| LangChain / LangGraph | `███████████░░░░` | Advanced |
+| HTML & CSS | `█████████████░░` | Advanced |
+| Git & Linux | `████████████░░░` | Advanced |
+| AI Agent Workflows | `███████████░░░░` | Advanced |
 
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
-</a>
+### 📊 GitHub Stats
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitanand05&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitanand05&theme=dracula&hide_border=true" />
 </p>
 
-</div>
-
-
-<div align="left">
-
-<br><br>
-
-## 🤖 AI & Automation Stack
-
-- LangChain  
-- LangGraph  
-- MCP Server  
-- AI Chatbots  
-- Automation Pipelines  
-- LLM Agent Workflows  
-- End-to-End AI Automation Systems  
-
-</div>
-
-
-<div align="left">
-
-<br><br>
-
-## Connect with me:
-
-<p>
-
-<a href="https://www.linkedin.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-<a href="https://github.com/" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30"/>
-</a>
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitanand05&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
-</div>
+---
 
+### 📅 Commit Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitanand05&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitanand05&theme=onedark&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake.gif" />
+  </picture>
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ankitanand05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-
-<br><br>
-
-## Just trying to stay consistent so the snake has more to eat 🐍
-
-![snake gif](https://github.com/ankitanand05/ankitanand05/blob/output/github-contribution-grid-snake.gif)
-
-<br>
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ankitanand05&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+  <sub>Just trying to stay consistent so the snake has more to eat 🐍</sub>
 </div>
