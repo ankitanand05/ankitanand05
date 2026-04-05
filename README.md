@@ -88,13 +88,7 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ankitanand05/ankitanand05/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
-
-### 🟢 Contribution Calendar
+###  Contribution Calendar
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00cc00/ankitanand05" alt="GitHub Contribution Chart" width="100%" />
@@ -121,5 +115,5 @@
 ---
 
 <div align="center">
-  <sub>Just trying to stay consistent so the snake has more to eat 🐍</sub>
+  <sub>Consistency is key 🔑</sub>
 </div>
